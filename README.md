@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanPQ26
 - 👀 I’m interested in Node, Python, Java, .NET
-- 🌱 I’m currently learning ASP.NET, DJANGO
+- 🌱 I’m currently learning ASP.NET, Django
 - 📫 How to reach me juanpq2003@outlook.com
 
 <!---
