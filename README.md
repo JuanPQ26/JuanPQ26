@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanPQ26
-- 👀 I’m interested in Node, Python, Java
-- 🌱 I’m currently learning Flask and Angular
+- 👀 I’m interested in Node, Python, Ruby
+- 🌱 I’m currently learning  Angular, Ruby on rails and Azure
 - 📫 How to reach me juanpq2003@outlook.com
 
 <!---
