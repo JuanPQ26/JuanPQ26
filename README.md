@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Juan Quintero
+<h1 align="center">👋 Hello, I'm Juan Quintero</h1>
+
 
 ![banner](https://cdn.pixabay.com/photo/2017/11/02/10/37/binary-2910663_960_720.jpg)
 
