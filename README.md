@@ -6,6 +6,7 @@
 I am student and Software analyst. I love Javascrit and Python. I have knowledge in database and cloud services
 ## Skills
  ![](https://img.shields.io/badge/Javascript-Lang-blue?style=for-the-badge&logo=javascript)
+ ![](https://img.shields.io/badge/Go-Lang-cyan?style=for-the-badge&logo=go)
  ![](https://img.shields.io/badge/Python-Lang-blue?style=for-the-badge&logo=python)
  ![](https://img.shields.io/badge/Java-Lang-blue?style=for-the-badge&logo=java)
  ![](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
