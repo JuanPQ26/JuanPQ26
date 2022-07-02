@@ -18,6 +18,6 @@ I am student and Software analyst. I love Javascrit and Python. I have knowledge
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpq26&layout=compact)
 
 ## Contact
- [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-pablo-quintero-lopez-34759a228/)
+ [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-pablo-quintero/)
  [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/juanpq2003)
  [![](https://img.shields.io/badge/Instagram-lightgrey?style=for-the-badge&logo=instagram)](https://www.instagram.com/juanpq2003/)
